@@ -1,0 +1,1 @@
+Here are the spreadsheets I use to create data visualizations on Viola Nation. The numbers generally come from fbref, Transfermarkt, Understat, or WhoScored. You're welcome to have a look at them to check my work if that's your thing. Feel free to reach out if you've got any questions. I know very little about this stuff but I'm happy to discuss it.
